@@ -1,0 +1,23 @@
+body {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	text-align: center;
+	transform: translate(-50%, -50%);
+	background-color: rgb(249, 206, 251);
+	color: rgb(255, 255, 255);
+	width: 100%;
+}
+
+.table {
+	margin: auto;
+	width: 90%;
+}
+
+td {
+	background-color: rgba(56, 3, 20, 0.158);
+}
+
+th {
+	background-color: rgba(56, 3, 20, 0.393);
+}
